@@ -24,7 +24,7 @@
         display: grid;
     }
     .testimonial-img{
-        width: 10;
+        width: 5vw;
         padding-top: 5;
     }
 }
