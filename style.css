@@ -9,3 +9,21 @@
     width: 100% !important;
     height: 75vh;
 }
+.testimonial-img{
+    height: 50;
+}
+
+@media only screen and (max-width: 600px) {
+    .header-text{
+        font-size: 2rem;
+    }
+    .w-100{
+        height: 50vh;
+    }
+    #header-button{
+        display: grid;
+    }
+    .testimonial-img{
+        height: 30;
+    }
+}
